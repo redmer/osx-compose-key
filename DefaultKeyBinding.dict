@@ -188,6 +188,7 @@
                 "o" = ("insertText:", "ő");
                 "U" = ("insertText:", "Ű");
                 "u" = ("insertText:", "ű");
+                " " = ("insertText:", "”");
             };
             " " = ("insertText:", "’");
 
@@ -219,6 +220,7 @@
             "z" = ("insertText:", "ź");
         };
         "`" = {
+            "`" = ("insertText:", "“");
             " " = ("insertText:", "‘");
 
             "A" = ("insertText:", "À");
